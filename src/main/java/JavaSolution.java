@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class JavaSolution {
     public static void main(String[] args) {
         List<Integer> numberList = new ArrayList<>(List.of(1, 3, 4, 5, 1, 5, 4));
         Map<Integer, Integer> result = countNumbers(numberList);
