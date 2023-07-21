@@ -7,7 +7,7 @@ public class JavaSolution {
         System.out.println("result = " + result);
     }
 
-    private static Map<Integer, Integer> countNumbers(List<Integer> numberList) {
+    public static Map<Integer, Integer> countNumbers(List<Integer> numberList) {
         Map<Integer, Integer> result = new HashMap<>();
         for (int number : numberList) {
             result.put(number, Optional.ofNullable(result.get(number)).orElse(0) + 1);
