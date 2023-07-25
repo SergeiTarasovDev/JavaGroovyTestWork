@@ -1,6 +1,6 @@
 ### Тестовое задание. 
 
-<b>Использованные технологии:</b> Java Core, Groovy, Collection
+<b>Использованные технологии:</b> Java Core, Groovy, Collection, JUnit
 
 ## Тестовое задание с помощью языка Java и Groovy (на 2-х языках!):
 
